@@ -3,7 +3,7 @@ mypy==1.8.0
 flake8==3.9.0
 
 # Code Formatter
-black==23.12.1
+black==24.3.0
 
 # Spark Connect (required)
 grpcio>=1.67.0
